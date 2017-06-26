@@ -4,3 +4,4 @@
 * alimq
 * content
 * 协程池
+* redis连接池
